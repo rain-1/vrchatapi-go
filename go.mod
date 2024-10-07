@@ -1,4 +1,4 @@
-module github.com/vrchatapi/vrchatapi-go/vrchatapi
+module github.com/vrchatapi/vrchatapi-go
 
 go 1.18
 
